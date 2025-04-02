@@ -89,16 +89,16 @@ function HomePage() {
   </Typography>
 
 
-
+// Card_box//
   <Box
     sx={{
       display: "flex",
       justifyContent: "space-between",
       flexWrap: "wrap",
-      backgroundColor: "#ffffff", // Background for the whole card
-      borderRadius: "8px", // Optional rounded corners
-      boxShadow: "0px 4px 20px rgba(0, 0, 0, 0.1)", // Optional shadow for card effect
-      padding: "20px", // Padding inside the card
+      backgroundColor: "#ffffff",
+      borderRadius: "8px", 
+      boxShadow: "0px 4px 20px rgba(0, 0, 0, 0.1)", 
+      padding: "20px", 
       marginBottom:"15px"
     }}
   >
@@ -139,6 +139,7 @@ function HomePage() {
     </Box>
   </Box>
 
+  // Card_box//
   <Box
     sx={{
       display: "flex",
@@ -188,6 +189,8 @@ function HomePage() {
     </Box>
   </Box>
 
+
+ // Card_box//
   <Box
     sx={{
       display: "flex",
@@ -238,7 +241,7 @@ function HomePage() {
     </Box>
   </Box>
 
-
+    // Card_box//
   <Box
     sx={{
       display: "flex",

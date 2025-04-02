@@ -4,7 +4,7 @@ import Login from "../container/auth/Loging";
 import Register from "../container/auth/Register";
 import HomePage from "../container/page/Home";
 
-const Routerr = () => {
+const Router = () => {
   return (
     <BrowserRouter>
       <Routes>
@@ -16,4 +16,4 @@ const Routerr = () => {
   );
 };
 
-export default Routerr;
+export default Router;
